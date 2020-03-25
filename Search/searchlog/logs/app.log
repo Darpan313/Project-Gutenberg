@@ -1,0 +1,57 @@
+2020-03-24 01:30:29,598 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 43044 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-24 01:30:29,605 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-24 01:30:30,563 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.237 seconds (JVM running for 2.707)
+2020-03-24 01:30:32,682 INFO c.e.s.SaveLog [http-nio-127.0.0.1-8084-exec-1] Time:1:30,Keyword:Moon,Frequency:1
+2020-03-24 01:30:46,586 INFO c.e.s.SaveLog [http-nio-127.0.0.1-8084-exec-3] Time:1:30,Keyword:Moon,Frequency:2
+2020-03-24 01:30:57,729 INFO c.e.s.SaveLog [http-nio-127.0.0.1-8084-exec-4] Time:1:30,Keyword:Sun,Frequency:1
+2020-03-24 01:39:13,925 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 43592 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-24 01:39:13,932 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-24 01:39:41,763 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 43640 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-24 01:39:41,769 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-24 01:39:42,728 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.218 seconds (JVM running for 2.521)
+2020-03-24 17:37:00,081 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 15904 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-24 17:37:00,088 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-24 17:37:01,200 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.44 seconds (JVM running for 2.982)
+2020-03-24 17:43:58,888 INFO c.e.s.SaveLog [http-nio-127.0.0.1-8084-exec-5] Time:17:43,Keyword:Sun,Frequency:2
+2020-03-24 17:49:51,223 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 1036 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-24 17:49:51,229 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-24 17:49:52,149 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.179 seconds (JVM running for 2.508)
+2020-03-24 17:55:17,230 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 18528 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-24 17:55:17,236 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-24 17:55:18,309 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.32 seconds (JVM running for 2.509)
+2020-03-24 20:31:45,777 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 17780 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-24 20:31:45,784 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-24 20:31:46,763 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.235 seconds (JVM running for 2.59)
+2020-03-24 21:12:29,681 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 20840 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-24 21:12:29,687 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-24 21:12:30,640 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.197 seconds (JVM running for 2.528)
+2020-03-24 21:13:59,304 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 22252 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-24 21:13:59,312 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-24 21:14:00,299 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.279 seconds (JVM running for 2.625)
+2020-03-24 21:14:03,892 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 20948 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-24 21:14:03,898 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-24 21:14:04,867 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.207 seconds (JVM running for 2.602)
+2020-03-24 21:16:46,939 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 14188 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-24 21:16:46,944 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-24 21:16:47,892 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.194 seconds (JVM running for 2.557)
+2020-03-24 21:17:21,526 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 22660 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-24 21:17:21,532 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-24 21:17:22,614 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.318 seconds (JVM running for 2.771)
+2020-03-25 13:58:01,807 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 23032 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-25 13:58:01,813 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-25 13:58:02,809 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.231 seconds (JVM running for 2.495)
+2020-03-25 14:03:08,293 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 3816 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-25 14:03:08,299 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-25 14:03:09,256 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.187 seconds (JVM running for 2.485)
+2020-03-25 14:08:37,331 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 24412 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-25 14:08:37,337 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-25 14:08:38,329 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.223 seconds (JVM running for 2.5)
+2020-03-25 14:08:51,949 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 24280 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-25 14:08:51,955 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-25 14:08:52,964 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.233 seconds (JVM running for 2.444)
+2020-03-25 14:09:45,140 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 13164 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-25 14:09:45,147 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-25 14:09:46,081 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.189 seconds (JVM running for 2.35)
+2020-03-25 14:11:09,835 INFO c.e.s.SearchlogApplication [main] Starting SearchlogApplication on DESKTOP-RQ7TN9S with PID 1040 (started by darpa in D:\STUDY\DAL_WINTER\Adv. CC\Assignment3\services\Search\searchlog)
+2020-03-25 14:11:09,840 INFO c.e.s.SearchlogApplication [main] No active profile set, falling back to default profiles: default
+2020-03-25 14:11:10,779 INFO c.e.s.SearchlogApplication [main] Started SearchlogApplication in 1.167 seconds (JVM running for 2.347)
